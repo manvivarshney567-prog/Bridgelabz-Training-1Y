@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ddd81e0-96c4-4c4d-9de2-e0534c5f937f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/AutoBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/PrimToWrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/UtilityConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/UtilityMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/WrapObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/WrapToPrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Wrapper/WrapperComparison.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3CeXkcnyE6HHdLhKk8op7Mi8GX7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Manvie/OneDrive/Desktop/Bridgelabz-Training-1Y/Wrapper/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ddd81e0-96c4-4c4d-9de2-e0534c5f937f" name="Changes" comment="" />
+      <created>1776747154792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776747154792</updated>
+    </task>
+    <servers />
+  </component>
+</project>
