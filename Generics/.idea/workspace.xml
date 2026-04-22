@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f2f06fc-2f5e-4998-87c6-b895cc3cf1ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Class_Practice/Box1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Class_Practice/Box2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Class_Practice/Box3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Class_Practice/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CompairTwoValues/Equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Finding_Element/NthElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Generic_Box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Generic_Box/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Generic_Pair/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Generic_Pair/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/MaxValue/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Students/GradeTrack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3CeYNhLbnUuULX0rafQRW78YHNs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GradeTrack.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Manvie/OneDrive/Desktop/Bridgelabz-Training-1Y/Generics/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GradeTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Students.GradeTrack" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Students.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GradeTrack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f2f06fc-2f5e-4998-87c6-b895cc3cf1ff" name="Changes" comment="" />
+      <created>1776747464760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776747464760</updated>
+    </task>
+    <servers />
+  </component>
+</project>
